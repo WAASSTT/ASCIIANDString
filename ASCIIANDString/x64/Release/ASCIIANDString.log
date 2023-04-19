@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ASCIIANDString.cpp
+  ASCIIANDStringDlg.cpp
+D:\InstantFile\OtherApplication\ASCIIANDString\ASCIIANDString\ASCIIANDStringDlg.cpp(273,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\InstantFile\OtherApplication\ASCIIANDString\ASCIIANDString\ASCIIANDStringDlg.cpp(277,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\InstantFile\OtherApplication\ASCIIANDString\ASCIIANDString\ASCIIANDStringDlg.cpp(288,14): warning C4244: “初始化”: 从“unsigned long”转换到“wchar_t”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 276 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ASCIIANDString.vcxproj -> D:\InstantFile\OtherApplication\ASCIIANDString\x64\Release\ASCIIANDString.exe

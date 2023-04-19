@@ -1,0 +1,2 @@
+# ASCIIANDString
+关于ASCII与字符串的相互转换的MFC程序
